@@ -26,6 +26,8 @@ In order to run the project, follow the steps below:
   9. choose whom to vote and click vote, another prompt with show the digital signature and confirmation page, click submit
   
   10. On the other tab, click mine, this will show the vote results
+
+  11. To run test, on terminal type : pytest
   
   
   
