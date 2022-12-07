@@ -1,6 +1,6 @@
 # Blockchain-Based-Voting-System
 
-We got the  project idea from https://github.com/adilmoujahid/blockchain-python-tutorial and made changes
+We got the  project idea from https://github.com/adilmoujahid/blockchain-python-tutorial and made changes.
 This repo is only for demo purposes and not for commercial use
 
 In order to run the project, follow the steps below:
